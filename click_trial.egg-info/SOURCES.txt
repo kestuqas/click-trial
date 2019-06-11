@@ -1,0 +1,8 @@
+setup.py
+trial.py
+click_trial.egg-info/PKG-INFO
+click_trial.egg-info/SOURCES.txt
+click_trial.egg-info/dependency_links.txt
+click_trial.egg-info/entry_points.txt
+click_trial.egg-info/requires.txt
+click_trial.egg-info/top_level.txt
